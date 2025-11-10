@@ -8,7 +8,7 @@ Born and raised in [Brescia](https://en.wikipedia.org/wiki/Brescia)🇮🇹, I�
 🎨 I’m passionate about **UI/UX design**, **graphics**, and how visual choices shape perception.  
 Recently, I’ve also developed a strong curiosity for **cybersecurity**, which I plan to explore further during my Master’s.  
 
-🥋 Outside the academic world, I’m a **black belt in karate** with over 10 years of practice, and I love the discipline, focus, and strength it brings.  
+🥋 When I'm not deep in books or in front of my computer, I'm 99% doing sports: I’m a **black belt in karate** with over 10 years of practice, and I love the discipline, focus, and strength it brings.  
 
 🏃🏻‍♀️ I love sports of every kind — from **running** and **swimming** to **mountain hiking**. I’m currently training for a **half marathon**, aiming one day for a **full marathon** and an [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon).
 
