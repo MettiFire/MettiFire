@@ -9,6 +9,7 @@ Born and raised in Italy 🇮🇹 I’ve always loved exploring how things work 
 Recently, I’ve also developed a strong curiosity for **cybersecurity**, which I plan to explore further during my Master’s.  
 
 🥋 Outside the academic world, I’m a **black belt in karate** with over 10 years of practice, and I love the discipline, focus, and strength it brings.  
-I love sports of every kind — from **running** and **swimming** to **mountain hiking**. I’m currently training for a **half marathon**, aiming one day for a **full marathon** and an **Ironman**.  
+I love sports of every kind — from **running** and **swimming** to **mountain hiking**. I’m currently training for a **half marathon**, aiming one day for a **full marathon** and an **Ironman**.
+
 ---
 [Linkedin](https://www.linkedin.com/in/anna-mettifogo-a37751292/) • [Strava](https://www.strava.com/athletes/123671944) • [Spotify](https://open.spotify.com/user/anna.mettifogo?si=4f7ede967b0a4f5d) •[Instagram](https://instragram.com/mettignis)
