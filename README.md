@@ -1,37 +1,11 @@
-# Hi, I'm Anna!
+👋 Hey, I'm Anna Mettifogo  
 
-Born and raised in Italy 🇮🇹 I’ve always loved **understanding how things work behind the scenes**.  
-Curiosity and creativity drive most of what I do.
+Born and raised in Italy 🇮🇹 — though half French 🇫🇷 — I’ve always loved exploring how things work behind the scenes.  
 
-🎓 I live in **Brescia** and study **Computer Science and Engineering** at [Politecnico di Milano](https://www.polimi.it/).  
-I’m finishing my **Bachelor’s degree** while starting my **Master’s in Computer Science Engineering (🇬🇧)** — diving deeper into the fields I’m most passionate about.
+🎓 I study **Computer Science and Engineering** at [Politecnico di Milano](https://www.polimi.it/), finishing my [Bachelor’s](https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-of-computing-systems) while starting my **[Master’s**](https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/computer-science-and-engineering) (English track).  
 
-💡 Over the past few years, I’ve become especially interested in **UI/UX design** — how to make information not only clear but visually engaging.  
-I love exploring how **graphics and design choices influence human perception**.  
-Thanks to a course I took last year, I also discovered a growing curiosity for **cybersecurity**, something I plan to explore further during my Master’s, now that I have more flexibility in course selection.
+💡 I’m passionate about **UI/UX design**, **graphics**, and how visual choices shape perception.  
+Recently, I’ve also developed a strong curiosity for **cybersecurity**, which I plan to explore further during my Master’s.  
 
----
-
-### 🥋 Outside the academic bubble
-Sports have always been a huge part of my life.  
-I’m a **black belt in karate** with over 10 years of practice, and I love the discipline, focus, and strength it brings.  
-I’m currently training for a **half marathon**, with the long-term goals of running a **full marathon** and eventually completing an **Ironman**.  
-
-When I’m not training, you’ll probably find me:
-- 📚 reading (I’m a big fan of books that inspire growth and reflection)
-- 🏔️ hiking in the mountains
-- 💻 tinkering with side projects or experimenting with new design ideas
-
----
-
-### 🌱 Always learning
-I’m fascinated by the intersection between **technology, design, and human behavior** —  
-and I’m always looking for ways to turn curiosity into something tangible.
-
----
-
-📫 **Connect with me:**  
-[![LinkedIn](https://www.linkedin.com/in/anna-mettifogo)
----
-
-🧠 *“The best way to predict the future is to build it.”*
+🥋 Outside the academic world, I’m a **black belt in karate** with over 10 years of practice, and I love sports of every kind — from **running** and **swimming** to **mountain hiking**. 
+I’m currently training for a **half marathon**, aiming one day for a **full marathon** and an **Ironman**.  
